@@ -1,0 +1,48 @@
+
+ Id de la reserva: 2
+Fecha inicio: 01/06/2023
+Fecha fin: 03/06/2023
+Reserva creada por: Sergio Molina
+Vehiculo reservado: NEN957 Categoria: camioneta
+Sede recogida: Salitre Sede entrega: Mazuren
+ -------------------------------------------------- 
+
+ Id de la reserva: 5
+Fecha inicio: 02/02/2023
+Fecha fin: 15/04/2023
+Reserva creada por: David Lesmes
+Vehiculo reservado: GHD265 Categoria: van
+Sede recogida: Sabana Sede entrega: Sabana
+ -------------------------------------------------- 
+
+ Id de la reserva: 6
+Fecha inicio: 02/11/2023
+Fecha fin: 09/11/2023
+Reserva creada por: David Lesmes
+Vehiculo reservado: QWE100 Categoria: camioneta
+Sede recogida: Ciudadela Sede entrega: Salitre
+ -------------------------------------------------- 
+
+ Id de la reserva: 3
+Fecha inicio: 01/01/2023
+Fecha fin: 01/02/2023
+Reserva creada por: David Lesmes
+Vehiculo reservado: GGH978 Categoria: van
+Sede recogida: Sabana Sede entrega: Mazuren
+ -------------------------------------------------- 
+
+ Id de la reserva: 4
+Fecha inicio: 10/02/2023
+Fecha fin: 20/02/2023
+Reserva creada por: David Lesmes
+Vehiculo reservado: RTY785 Categoria: lujoso
+Sede recogida: Sabana Sede entrega: Ciudadela
+ -------------------------------------------------- 
+
+ Id de la reserva: 1
+Fecha inicio: 01/02/2023
+Fecha fin: 15/02/2023
+Reserva creada por: Sergio Molina
+Vehiculo reservado: MBM926 Categoria: sedan
+Sede recogida: Mazuren Sede entrega: Mazuren
+ -------------------------------------------------- 

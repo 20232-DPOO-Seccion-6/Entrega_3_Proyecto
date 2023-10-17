@@ -1,0 +1,4 @@
+Sergio Molina;1223334444;3204558445;02/11/2001;colombiano;15;Colombia;02/11/2030;18964512;02/10/2025;200;Visa;smolina;4789;correo@gmail;bloqueada
+David Lesmes;1001168408;3204558446;02/11/2001;colombiano;16;Colombia;02/11/2001;7418529;01/04/2025;200;Visa;dlesmes;1234;lmanrique@gmail;libre
+Nohora Lesmes;51553871;3202725307;04/03/1998;colombiana;30;Colombia;04/03/1998;4561230;04/05/2027;500;Mastercard;nlesmes;4567;nlesmesr@gmail;libre
+Santiago Sanchez;1001200300;3204789510;01/01/2000;colombiano;20;Colombia;01/01/2000;7894561;17/08/2030;400;Visa;ssanchez;7410;ssanchez@outlook;libre

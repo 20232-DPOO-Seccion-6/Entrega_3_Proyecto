@@ -1,0 +1,10 @@
+NEN957;Chevrolet;2013;blanco;automatica;camioneta;Salitre;01/06/2023-03/06/2023;activo
+MBM926;Chevrolet;2012;negro;manual;sedan;Mazuren;01/02/2023-15/02/2023;activo
+TRF456;Nissan;2014;azul;manual;SUV;Sabana;-;activo
+EQG002;Ford;2022;negro;automatica;lujoso;Sabana;-;activo
+GGH978;Chevrolet;2018;negro;manual;van;Sabana;-;activo
+GHT789;Nissan;2010;azul;manual;sedan;Sabana;-;activo
+ERT123;Ford;2017;blanco;automatico;camioneta;Salitre;-;activo
+RTY785;Subaru;2015;rojo;automatico;lujoso;Sabana;10/02/2023-20/02/2023;activo
+GHD265;Nissan;2023;rojo;automatico;van;Sabana;02/02/2023-15/04/2023;activo
+QWE100;Toyota;2018;blanco;automatica;camioneta;Ciudadela;02/11/2023-09/11/2023;activo

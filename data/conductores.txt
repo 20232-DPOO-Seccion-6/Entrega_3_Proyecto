@@ -1,0 +1,10 @@
+Sergio Molina;1223334444;15;Colombia;02/11/2030;path_imagen;3204558445;correo@gmail
+Sergio Rincon;1002168408;45;Colombia;05/10/2027;./data/fotico.png;3134556215;sirincon@gmail
+Rafael Leao;456123000;78;Portugal;15/12/2025;foto.png;6011254789;correo@outlook
+Gilberto Manrique;4258444;89;USA;15/08/2026;foto.png;3202584440;gmanrique@gmail
+Felipe Torres;1001450231;62;Colombia;12/07/2025;foto.png;3201234567;felipe@gmail
+Rafael Uribe;51553871;12;Colombia;12/02/2029;foto.png;3204558475;rafaeluribe@gmail
+David Lesmes;1001168408;16;Colombia;02/12/2026;fotico.png;3204558446;lmanrique@gmail
+Nohora Lesmes;51553871;30;Colombia;02/08/2028;fotico.png;3202725307;nlesmesr@gmail
+Santiago Sanchez;1001200300;20;Colombia;14/05/2026;fotico.png;3204789510;ssanchez@outlook
+Ernesto Garcia;1001452632;19;Colombia;02/05/2029;foto.png;3204789562;egarcia@gmail

@@ -1,0 +1,15 @@
+dlmanrique;1234;adminGeneral
+msrondon;5678;admin
+jdvasquez;7890;admin
+savillamil;1245;recepcion
+fecalderon;4568;limpiador
+savilla;2564;recepcion
+femontero;6214;limpiador
+anhernandez;6321;admin
+namolina;7895;recepcion
+angarcia;0012;limpiador
+sapaiva;4789;admin
+dlesmes;1234;cliente
+nlesmes;4567;cliente
+ssanchez;7410;cliente
+ggonzalez;4589;admin

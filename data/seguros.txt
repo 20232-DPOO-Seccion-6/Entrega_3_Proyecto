@@ -1,0 +1,4 @@
+Porvenir;10000;Cubre solo fallas mecanicas
+TodoRiesgo;12000;Solo valido para Bogota
+Sura;15000;Cubre todo tipo de accidente, atencion las 24 horas
+Maphre;12000;Cubre todos los accidentes
